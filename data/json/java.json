@@ -43,5 +43,59 @@
         "path": "/data/files/java/Java编程的逻辑.epub",
         "cover": "/data/files/java/cover/logic-of-java-programming.jpg",
         "author": ""
+    },
+    {
+        "id": "1005",
+        "class" : "Java",
+        "name": "Java8实战",
+        "type": "epub",
+        "path": "/data/files/java/Java8实战.epub",
+        "cover": "",
+        "author": ""
+    },
+    {
+        "id": "1006",
+        "class" : "Java",
+        "name": "Java多线程编程实战指南:核心篇",
+        "type": "epub",
+        "path": "/data/files/java/Java多线程编程实战指南-核心篇.epub",
+        "cover": "",
+        "author": ""
+    },
+    {
+        "id": "1007",
+        "class" : "Java",
+        "name": "Java多线程编程实战指南：设计模式篇",
+        "type": "epub",
+        "path": "/data/files/java/Java多线程编程实战指南-设计模式篇.epub",
+        "cover": "",
+        "author": ""
+    },
+    {
+        "id": "1008",
+        "class" : "Java",
+        "name": "Java性能权威指南",
+        "type": "epub",
+        "path": "/data/files/java/Java性能权威指南.epub",
+        "cover": "",
+        "author": ""
+    },
+    {
+        "id": "1009",
+        "class" : "Java",
+        "name": "自己动手写Java虚拟机",
+        "type": "epub",
+        "path": "/data/files/java/自己动手写Java虚拟机.epub",
+        "cover": "",
+        "author": ""
+    },
+    {
+        "id": "1010",
+        "class" : "Java",
+        "name": "Maven实战",
+        "type": "epub",
+        "path": "/data/files/java/Maven实战.epub",
+        "cover": "",
+        "author": ""
     }
 ]

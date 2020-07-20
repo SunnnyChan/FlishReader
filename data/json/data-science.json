@@ -54,5 +54,13 @@
         "path": "/data/files/data-science/女士品茶.epub",
         "cover": "/data/files/data-science/cover/7007.jpeg",
         "author": ""
+    },
+    {
+        "id": "7008",
+        "name": "用数据讲故事",
+        "type": "epub",
+        "path": "/data/files/data-science/用数据讲故事.epub",
+        "cover": "/data/files/data-science/cover/7008.jpeg",
+        "author": ""
     }
 ]
