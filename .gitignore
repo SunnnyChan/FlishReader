@@ -28,5 +28,8 @@ node_tmp/
 /.awcache/*
 /.cache-loader/*
 
+# VUE
+yarn.lock
+
 # epub files
 /data/files/*
