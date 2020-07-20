@@ -20,7 +20,7 @@
         "name": "吴军作品",
         "type": "epub",
         "path": "/data/files/internet/吴军作品.epub",
-        "cover": "",
+        "cover": "/data/files/internet/cover/10002.jpg",
         "author": ""
     },
     {
@@ -28,7 +28,7 @@
         "name": "重来:更为简单有效的商业思维",
         "type": "epub",
         "path": "/data/files/internet/重来-更为简单有效的商业思维.epub",
-        "cover": "",
+        "cover": "/data/files/internet/cover/10003.jpg",
         "author": ""
     }
 ]

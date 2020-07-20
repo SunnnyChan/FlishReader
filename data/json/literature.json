@@ -12,16 +12,16 @@
         "name": "金庸作品全集",
         "type": "epub",
         "path": "/data/files/literature/金庸作品全集-新修版-全36册.epub",
-        "cover": "",
-        "author": ""
+        "cover": "/data/files/literature/cover/9051.jpg",
+        "author": "金庸"
     },
     {
         "id": "9052",
         "name": "古龙作品集",
         "type": "epub",
         "path": "/data/files/literature/古龙作品集.epub",
-        "cover": "",
-        "author": ""
+        "cover": "/data/files/literature/cover/9052.jpg",
+        "author": "古龙"
     },
     {
         "id": "9053",
@@ -52,7 +52,7 @@
         "name": "鬼吹灯2龙岭迷窟",
         "type": "epub",
         "path": "/data/files/literature/TheGhouls/鬼吹灯2龙岭迷窟.epub",
-        "cover": "/data/files/literature/TheGhouls/9056.jpeg",
+        "cover": "/data/files/literature/TheGhouls/9056.jpg",
         "author": ""
     },
     {
@@ -60,7 +60,7 @@
         "name": "鬼吹灯3云南虫谷",
         "type": "epub",
         "path": "/data/files/literature/TheGhouls/鬼吹灯3云南虫谷.epub",
-        "cover": "/data/files/literature/TheGhouls/9057.jpeg",
+        "cover": "/data/files/literature/TheGhouls/9057.jpg",
         "author": ""
     },
     {
@@ -68,7 +68,7 @@
         "name": "鬼吹灯4昆仑神宫",
         "type": "epub",
         "path": "/data/files/literature/TheGhouls/鬼吹灯4昆仑神宫.epub",
-        "cover": "/data/files/literature/TheGhouls/9058.jpeg",
+        "cover": "/data/files/literature/TheGhouls/9058.jpg",
         "author": ""
     },
     {
@@ -76,7 +76,7 @@
         "name": "鬼吹灯5黄皮子坟",
         "type": "epub",
         "path": "/data/files/literature/TheGhouls/鬼吹灯5黄皮子坟.epub",
-        "cover": "/data/files/literature/TheGhouls/9059.jpeg",
+        "cover": "/data/files/literature/TheGhouls/9059.jpg",
         "author": ""
     },
     {
@@ -84,7 +84,7 @@
         "name": "鬼吹灯6南海归墟",
         "type": "epub",
         "path": "/data/files/literature/TheGhouls/鬼吹灯6南海归墟.epub",
-        "cover": "/data/files/literature/TheGhouls/9060.jpeg",
+        "cover": "/data/files/literature/TheGhouls/9060.jpg",
         "author": ""
     },
     {
@@ -92,7 +92,7 @@
         "name": "鬼吹灯7怒晴湘西",
         "type": "epub",
         "path": "/data/files/literature/TheGhouls/鬼吹灯7怒晴湘西.epub",
-        "cover": "/data/files/literature/TheGhouls/9061.jpeg",
+        "cover": "/data/files/literature/TheGhouls/9061.jpg",
         "author": ""
     },
     {
@@ -100,7 +100,7 @@
         "name": "鬼吹灯8巫峡棺山",
         "type": "epub",
         "path": "/data/files/literature/TheGhouls/鬼吹灯8巫峡棺山.epub",
-        "cover": "/data/files/literature/TheGhouls/9062.jpeg",
+        "cover": "/data/files/literature/TheGhouls/9062.jpg",
         "author": ""
     }
 

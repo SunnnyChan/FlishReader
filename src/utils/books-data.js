@@ -14,13 +14,13 @@ import MathBooks from '../../data/json/math.json'
  * 获取所有的书籍数据（分类）
  */
 export function getBooksData() {
-    var books = mergeJson(Literature, EmBooksData)
+    var books = mergeJson(EmBooksData, Literature)
     books = mergeJson(Insight, books)
     books = mergeJson(Internet, books)
     books = mergeJson(Ai, books)
-    books = mergeJson(JavaBooksData, books)
     books = mergeJson(MathBooks, books)
     books = mergeJson(Programming, books)
+    books = mergeJson(JavaBooksData, books)
     books = mergeJson(DataBase, books)
     books = mergeJson(DataScience, books)
     return mergeJson(GrowthHacking, books)

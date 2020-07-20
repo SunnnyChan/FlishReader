@@ -50,7 +50,7 @@
         "name": "Java8实战",
         "type": "epub",
         "path": "/data/files/java/Java8实战.epub",
-        "cover": "",
+        "cover": "/data/files/java/cover/1005.jpeg",
         "author": ""
     },
     {
@@ -59,7 +59,7 @@
         "name": "Java多线程编程实战指南:核心篇",
         "type": "epub",
         "path": "/data/files/java/Java多线程编程实战指南-核心篇.epub",
-        "cover": "",
+        "cover": "/data/files/java/cover/1006.jpg",
         "author": ""
     },
     {
@@ -68,7 +68,7 @@
         "name": "Java多线程编程实战指南：设计模式篇",
         "type": "epub",
         "path": "/data/files/java/Java多线程编程实战指南-设计模式篇.epub",
-        "cover": "",
+        "cover": "/data/files/java/cover/1007.jpg",
         "author": ""
     },
     {
@@ -77,7 +77,7 @@
         "name": "Java性能权威指南",
         "type": "epub",
         "path": "/data/files/java/Java性能权威指南.epub",
-        "cover": "",
+        "cover": "/data/files/java/cover/1008.jpeg",
         "author": ""
     },
     {
@@ -86,7 +86,7 @@
         "name": "自己动手写Java虚拟机",
         "type": "epub",
         "path": "/data/files/java/自己动手写Java虚拟机.epub",
-        "cover": "",
+        "cover": "/data/files/java/cover/1009.jpg",
         "author": ""
     },
     {
@@ -95,7 +95,7 @@
         "name": "Maven实战",
         "type": "epub",
         "path": "/data/files/java/Maven实战.epub",
-        "cover": "",
+        "cover": "/data/files/java/cover/1010.jpeg",
         "author": ""
     }
 ]
