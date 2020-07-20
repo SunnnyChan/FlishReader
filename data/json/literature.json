@@ -38,5 +38,70 @@
         "path": "/data/files/literature/斗破苍穹-全集.epub",
         "cover": "/data/files/literature/cover/9054.jpeg",
         "author": ""
-    }      
+    },
+    {
+        "id": "9055",
+        "name": "鬼吹灯1精绝古城",
+        "type": "epub",
+        "path": "/data/files/literature/TheGhouls/鬼吹灯1精绝古城.epub",
+        "cover": "/data/files/literature/TheGhouls/9055.jpg",
+        "author": ""
+    },
+    {
+        "id": "9056",
+        "name": "鬼吹灯2龙岭迷窟",
+        "type": "epub",
+        "path": "/data/files/literature/TheGhouls/鬼吹灯2龙岭迷窟.epub",
+        "cover": "/data/files/literature/TheGhouls/9056.jpeg",
+        "author": ""
+    },
+    {
+        "id": "9057",
+        "name": "鬼吹灯3云南虫谷",
+        "type": "epub",
+        "path": "/data/files/literature/TheGhouls/鬼吹灯3云南虫谷.epub",
+        "cover": "/data/files/literature/TheGhouls/9057.jpeg",
+        "author": ""
+    },
+    {
+        "id": "9058",
+        "name": "鬼吹灯4昆仑神宫",
+        "type": "epub",
+        "path": "/data/files/literature/TheGhouls/鬼吹灯4昆仑神宫.epub",
+        "cover": "/data/files/literature/TheGhouls/9058.jpeg",
+        "author": ""
+    },
+    {
+        "id": "9059",
+        "name": "鬼吹灯5黄皮子坟",
+        "type": "epub",
+        "path": "/data/files/literature/TheGhouls/鬼吹灯5黄皮子坟.epub",
+        "cover": "/data/files/literature/TheGhouls/9059.jpeg",
+        "author": ""
+    },
+    {
+        "id": "9060",
+        "name": "鬼吹灯6南海归墟",
+        "type": "epub",
+        "path": "/data/files/literature/TheGhouls/鬼吹灯6南海归墟.epub",
+        "cover": "/data/files/literature/TheGhouls/9060.jpeg",
+        "author": ""
+    },
+    {
+        "id": "9061",
+        "name": "鬼吹灯7怒晴湘西",
+        "type": "epub",
+        "path": "/data/files/literature/TheGhouls/鬼吹灯7怒晴湘西.epub",
+        "cover": "/data/files/literature/TheGhouls/9061.jpeg",
+        "author": ""
+    },
+    {
+        "id": "9062",
+        "name": "鬼吹灯8巫峡棺山",
+        "type": "epub",
+        "path": "/data/files/literature/TheGhouls/鬼吹灯8巫峡棺山.epub",
+        "cover": "/data/files/literature/TheGhouls/9062.jpeg",
+        "author": ""
+    }
+
 ]
