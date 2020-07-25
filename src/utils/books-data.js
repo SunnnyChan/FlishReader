@@ -9,6 +9,8 @@ import DataScience from '../../data/json/data-science.json'
 import DataBase from '../../data/json/db.json'
 import Ai from '../../data/json/ai.json'
 import MathBooks from '../../data/json/math.json'
+import BigData from '../../data/json/bigdata.json'
+import Arch from '../../data/json/arch.json'
 
 /**
  * 获取所有的书籍数据（分类）
@@ -20,8 +22,10 @@ export function getBooksData() {
     books = mergeJson(Ai, books)
     books = mergeJson(MathBooks, books)
     books = mergeJson(Programming, books)
+    books = mergeJson(Arch, books)
     books = mergeJson(JavaBooksData, books)
     books = mergeJson(DataBase, books)
+    books = mergeJson(BigData, books)
     books = mergeJson(DataScience, books)
     return mergeJson(GrowthHacking, books)
 }

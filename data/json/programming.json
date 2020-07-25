@@ -127,5 +127,45 @@
         "path": "/data/files/programming/编个程序炒股玩儿-股票技术分析与编程实践.epub",
         "cover": "/data/files/programming/cover/3913.jpg",
         "author": ""
+    },
+    {
+        "id": "3914",
+        "type": "epub",
+        "name": "算法图解",
+        "path": "/data/files/programming/算法图解.epub",
+        "cover": "/data/files/programming/cover/3914.jpg",
+        "author": ""
+    },
+    {
+        "id": "3915",
+        "type": "epub",
+        "name": "数据结构与算法图解",
+        "path": "/data/files/programming/数据结构与算法图解.epub",
+        "cover": "/data/files/programming/cover/3915.jpg",
+        "author": ""
+    },
+    {
+        "id": "3916",
+        "type": "epub",
+        "name": "算法的乐趣",
+        "path": "/data/files/programming/算法的乐趣.epub",
+        "cover": "/data/files/programming/cover/3916.jpg",
+        "author": ""
+    },
+    {
+        "id": "3917",
+        "type": "epub",
+        "name": "大话数据结构",
+        "path": "/data/files/programming/大话数据结构.epub",
+        "cover": "/data/files/programming/cover/3917.jpg",
+        "author": ""
+    },
+    {
+        "id": "3918",
+        "type": "epub",
+        "name": "迷茫的旅行商-一个无处不在的计算机算法问题",
+        "path": "/data/files/programming/迷茫的旅行商-一个无处不在的计算机算法问题.epub",
+        "cover": "/data/files/programming/cover/3918.jpeg",
+        "author": ""
     }
 ]

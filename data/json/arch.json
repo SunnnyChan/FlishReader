@@ -1,0 +1,18 @@
+[   
+    {
+        "id": "13000",
+        "name": "微服务设计",
+        "type": "epub",
+        "path": "/data/files/arch/统计学习微服务设计方法.epub",
+        "cover": "/data/files/arch/cover/13000.jpg",
+        "author": ""
+    },
+    {
+        "id": "13001",
+        "name": "分布式实时处理系统-原理_架构与实现",
+        "type": "epub",
+        "path": "/data/files/arch/分布式实时处理系统-原理_架构与实现.epub",
+        "cover": "/data/files/arch/cover/13001.jpg",
+        "author": ""
+    }
+]

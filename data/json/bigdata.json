@@ -1,0 +1,26 @@
+[
+    {
+        "id": "12000",
+        "name": "大数据日知录-架构与算法",
+        "type": "epub",
+        "path": "/data/files/bigdata/大数据日知录-架构与算法.epub",
+        "cover": "/data/files/bigdata/cover/12000.jpg",
+        "author": ""
+    },
+    {
+        "id": "12001",
+        "name": "赤裸裸的统计学-除去大数据的枯燥外衣呈现真实的数字之美",
+        "type": "epub",
+        "path": "/data/files/bigdata/赤裸裸的统计学-除去大数据的枯燥外衣呈现真实的数字之美.epub",
+        "cover": "/data/files/bigdata/cover/12001.jpeg",
+        "author": ""
+    },
+    {
+        "id": "12002",
+        "name": "魔鬼数学-大数据时代_数学思维的力量",
+        "type": "epub",
+        "path": "/data/files/bigdata/魔鬼数学-大数据时代_数学思维的力量.epub",
+        "cover": "/data/files/bigdata/cover/12002.jpeg",
+        "author": ""
+    }
+]

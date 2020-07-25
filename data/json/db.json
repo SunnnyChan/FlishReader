@@ -22,5 +22,13 @@
         "path": "/data/files/db/MySQL技术内幕-SQL编程.epub",
         "cover": "/data/files/db/cover/6002.jpg",
         "author": ""
+    },
+    {
+        "id": "6003",
+        "name": "MySQL索引背后的数据结构及算法原理",
+        "type": "epub",
+        "path": "/data/files/db/MySQL索引背后的数据结构及算法原理.epub",
+        "cover": "/data/files/db/cover/6003.jpg",
+        "author": ""
     }
 ]
