@@ -22,5 +22,21 @@
         "path": "/data/files/E-M/代谢增长论.epub",
         "cover": "/data/files/E-M/cover/metabolic-growth.jpg",
         "author": ""
+    },
+    {
+        "id": "9003",
+        "name": "雪球专刊132期-明明白白说估值",
+        "type": "epub",
+        "path": "/data/files/E-M/雪球专刊132期-明明白白说估值.epub",
+        "cover": "/data/files/E-M/cover/9003.jpg",
+        "author": ""
+    },
+    {
+        "id": "9004",
+        "name": "知乎周刊-枯燥无味的心理学",
+        "type": "epub",
+        "path": "/data/files/E-M/知乎周刊-枯燥无味的心理学.epub",
+        "cover": "/data/files/E-M/cover/9004.jpg",
+        "author": ""
     }
 ]

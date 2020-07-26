@@ -50,8 +50,40 @@
         "id": "2005",
         "name": "图解网站分析：让流量倍增的网站优化方法",
         "type": "epub",
-        "path": "/data/files/growth-hacking//图解网站分析.epub",
+        "path": "/data/files/growth-hacking/图解网站分析.epub",
         "cover": "/data/files/growth-hacking/cover/2005.jpeg",
+        "author": ""
+    },    
+    {
+        "id": "2006",
+        "name": "用户思维+：好产品让用户为自己尖叫",
+        "type": "epub",
+        "path": "/data/files/growth-hacking/用户思维+-好产品让用户为自己尖叫.epub",
+        "cover": "/data/files/growth-hacking/cover/2006.jpeg",
+        "author": ""
+    },    
+    {
+        "id": "2007",
+        "name": "上瘾:让用户养成使用习惯的四大产品逻辑",
+        "type": "epub",
+        "path": "/data/files/growth-hacking/上瘾-让用户养成使用习惯的四大产品逻辑.epub",
+        "cover": "/data/files/growth-hacking/cover/2007.jpg",
+        "author": ""
+    },    
+    {
+        "id": "2008",
+        "name": "用户体验要素:以用户为中心的产品设计-第2版",
+        "type": "epub",
+        "path": "/data/files/growth-hacking/用户体验要素-以用户为中心的产品设计-第2版.epub",
+        "cover": "/data/files/growth-hacking/cover/2008.jpg",
+        "author": ""
+    },    
+    {
+        "id": "2009",
+        "name": "增长思维",
+        "type": "epub",
+        "path": "/data/files/growth-hacking/增长思维.epub",
+        "cover": "/data/files/growth-hacking/cover/2009.jpg",
         "author": ""
     }
 ]

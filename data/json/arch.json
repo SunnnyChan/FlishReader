@@ -14,5 +14,21 @@
         "path": "/data/files/arch/分布式实时处理系统-原理_架构与实现.epub",
         "cover": "/data/files/arch/cover/13001.jpg",
         "author": ""
+    },
+    {
+        "id": "13002",
+        "name": "企业IT架构转型之道-阿里巴巴中台战略思想与架构实战",
+        "type": "epub",
+        "path": "/data/files/arch/企业IT架构转型之道-阿里巴巴中台战略思想与架构实战.epub",
+        "cover": "/data/files/arch/cover/13002.jpg",
+        "author": ""
+    },
+    {
+        "id": "13003",
+        "name": "Spring Cloud微服务实战",
+        "type": "epub",
+        "path": "/data/files/arch/SpringCloud微服务实战.epub",
+        "cover": "/data/files/arch/cover/13003.jpg",
+        "author": ""
     }
 ]
