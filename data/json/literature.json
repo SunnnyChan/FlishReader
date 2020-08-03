@@ -102,6 +102,14 @@
         "path": "/data/files/literature/TheGhouls/鬼吹灯8巫峡棺山.epub",
         "cover": "/data/files/literature/TheGhouls/9062.jpg",
         "author": ""
+    },
+    {
+        "id": "9063",
+        "name": "枪炮、病菌与钢铁：人类社会的命运",
+        "type": "epub",
+        "path": "/data/files/literature/枪炮_病菌与钢铁-人类社会的命运.epub",
+        "cover": "/data/files/literature/9063.jpg",
+        "author": ""
     }
 
 ]
