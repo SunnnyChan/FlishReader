@@ -25,10 +25,18 @@
     },
     {
         "id": "10003",
-        "name": "重来:更为简单有效的商业思维",
+        "name": "重来：更为简单有效的商业思维",
         "type": "epub",
         "path": "/data/files/internet/重来-更为简单有效的商业思维.epub",
         "cover": "/data/files/internet/cover/10003.jpg",
+        "author": ""
+    },
+    {
+        "id": "10004",
+        "name": "创业维艰",
+        "type": "epub",
+        "path": "/data/files/internet/创业维艰.epub",
+        "cover": "/data/files/internet/cover/10004.jpeg",
         "author": ""
     }
 ]
