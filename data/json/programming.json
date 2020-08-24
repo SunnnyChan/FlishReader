@@ -183,5 +183,13 @@
         "path": "/data/files/programming/我的第一本算法书.epub",
         "cover": "/data/files/programming/cover/3920.jpg",
         "author": ""
+    },
+    {
+        "id": "3921",
+        "type": "epub",
+        "name": "七周七语言",
+        "path": "/data/files/programming/七周七语言.epub",
+        "cover": "/data/files/programming/cover/3921.jpg",
+        "author": ""
     }
 ]
