@@ -49,6 +49,14 @@
         "author": ""
     },
     {
+        "id": "3102",
+        "type": "epub",
+        "name": "Design Patterns Explained",
+        "path": "/data/files/programming/Design-Patterns-Explained.epub",
+        "cover": "/data/files/programming/cover/3102.jpg",
+        "author": ""
+    },
+    {
         "id": "3904",
         "type": "epub",
         "name": "自制搜索引擎",
