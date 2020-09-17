@@ -110,6 +110,15 @@
         "path": "/data/files/literature/枪炮_病菌与钢铁-人类社会的命运.epub",
         "cover": "/data/files/literature/cover/9063.jpg",
         "author": ""
+    },
+    {
+        "id": "9090",
+        "name": "5000年文明启示录",
+        "type": "epub",
+        "path": "/data/files/history/5000年文明启示录.epub",
+        "cover": "/data/files/history/cover/9090.jpeg",
+        "author": ""
     }
+    
 
 ]
