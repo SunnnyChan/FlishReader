@@ -101,5 +101,13 @@
         "path": "/data/files/growth-hacking/小群效应-席卷海量用户的隐性力量.epub",
         "cover": "/data/files/growth-hacking/cover/2011.jpg",
         "author": ""
+    },
+    {
+        "id": "2017",
+        "name": "Trustworthy Online Controlled Experiments",
+        "type": "epub",
+        "path": "/data/files/growth-hacking/Trustworthy-Online-Controlled-Experiments.epub",
+        "cover": "/data/files/growth-hacking/cover/2017.jpg",
+        "author": ""
     }
 ]
