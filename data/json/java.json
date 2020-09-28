@@ -97,5 +97,14 @@
         "path": "/data/files/java/Maven实战.epub",
         "cover": "/data/files/java/cover/1010.jpeg",
         "author": ""
+    },
+    {
+        "id": "1011",
+        "class" : "Java",
+        "name": "Java开发手册-嵩山版",
+        "type": "epub",
+        "path": "/data/files/java/Java开发手册-嵩山版.epub",
+        "cover": "/data/files/java/cover/1011.jpeg",
+        "author": ""
     }
 ]

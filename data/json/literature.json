@@ -118,6 +118,14 @@
         "path": "/data/files/history/5000年文明启示录.epub",
         "cover": "/data/files/history/cover/9090.jpeg",
         "author": ""
+    },
+    {
+        "id": "9091",
+        "name": "5Shady Characters",
+        "type": "epub",
+        "path": "/data/files/history/Shady-Characters-2013.epub",
+        "cover": "/data/files/history/cover/9091.jpg",
+        "author": ""
     }
     
 
