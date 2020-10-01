@@ -30,5 +30,13 @@
         "path": "/data/files/arch/SpringCloud微服务实战.epub",
         "cover": "/data/files/arch/cover/13003.jpg",
         "author": ""
+    },
+    {
+        "id": "13004",
+        "name": "Patterns of Enterprise Application Architecture",
+        "type": "epub",
+        "path": "/data/files/arch/Patterns-of-Enterprise-Application-Architecture.epub",
+        "cover": "/data/files/arch/cover/13004.jpg",
+        "author": ""
     }
 ]

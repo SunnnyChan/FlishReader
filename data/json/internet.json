@@ -38,5 +38,13 @@
         "path": "/data/files/internet/创业维艰.epub",
         "cover": "/data/files/internet/cover/10004.jpeg",
         "author": ""
+    },
+    {
+        "id": "10005",
+        "name": "软技能-代码之外的生存指南",
+        "type": "epub",
+        "path": "/data/files/internet/软技能-代码之外的生存指南.epub",
+        "cover": "/data/files/internet/cover/10005.jpeg",
+        "author": ""
     }
 ]
