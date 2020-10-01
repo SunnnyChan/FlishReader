@@ -207,5 +207,13 @@
         "path": "/data/files/programming/Systems-Performance_Enterprise-and-the-Cloud-2013.epub",
         "cover": "/data/files/programming/cover/3922.jpeg",
         "author": ""
+    },
+    {
+        "id": "3923",
+        "type": "epub",
+        "name": "算法详解-卷1-算法基础",
+        "path": "/data/files/programming/算法详解-卷1-算法基础.epub",
+        "cover": "/data/files/programming/cover/3923.jpg",
+        "author": ""
     }
 ]
