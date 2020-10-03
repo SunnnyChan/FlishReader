@@ -215,5 +215,13 @@
         "path": "/data/files/programming/算法详解-卷1-算法基础.epub",
         "cover": "/data/files/programming/cover/3923.jpg",
         "author": ""
+    },
+    {
+        "id": "3924",
+        "type": "epub",
+        "name": "算法心得：高效算法的奥秘",
+        "path": "/data/files/programming/算法心得-高效算法的奥秘-v2-2014.epub",
+        "cover": "/data/files/programming/cover/3924.jpg",
+        "author": ""
     }
 ]

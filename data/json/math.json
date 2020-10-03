@@ -33,10 +33,18 @@
     },
     {
         "id": "11004",
-        "name": "统计学关我什么事-生活中的极简统计学",
+        "name": "统计学关我什么事：生活中的极简统计学",
         "type": "epub",
         "path": "/data/files/math/统计学关我什么事-生活中的极简统计学.epub",
         "cover": "/data/files/math/cover/11004.jpg",
+        "author": ""
+    },
+    {
+        "id": "11005",
+        "name": "醉汉的脚步：随机性如何主宰我们的生活",
+        "type": "epub",
+        "path": "/data/files/math/醉汉的脚步-随机性如何主宰我们的生活-2010.epub",
+        "cover": "/data/files/math/cover/11005.jpg",
         "author": ""
     }
 ]

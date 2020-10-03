@@ -38,5 +38,13 @@
         "path": "/data/files/arch/Patterns-of-Enterprise-Application-Architecture.epub",
         "cover": "/data/files/arch/cover/13004.jpg",
         "author": ""
+    },
+    {
+        "id": "13005",
+        "name": "Pattern-Oriented Software Architecture",
+        "type": "epub",
+        "path": "/data/files/arch/Pattern-Oriented_Software_Architecture.epub",
+        "cover": "/data/files/arch/cover/13005.jpg",
+        "author": ""
     }
 ]
