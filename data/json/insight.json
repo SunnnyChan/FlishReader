@@ -22,5 +22,54 @@
         "path": "/data/files/insight/定位-有史以来对美国营销影响最大的观念.epub",
         "cover": "/data/files/insight/cover/24.jpeg",
         "author": ""
+    },
+    {
+        "id": "25",
+        "name": "复杂-研究复杂系统的通识著作",
+        "type": "epub",
+        "path": "/data/files/insight/复杂-研究复杂系统的通识著作-梅拉妮_米歇尔.epub",
+        "cover": "/data/files/insight/cover/25.jpeg",
+        "author": ""
+    },
+    {
+        "id": "26",
+        "name": "你的灯亮着吗",
+        "type": "epub",
+        "path": "/data/files/insight/你的灯亮着吗.epub",
+        "cover": "/data/files/insight/cover/26.jpeg",
+        "author": ""
+    },
+    {
+        "id": "27",
+        "name": "公正-该如何做是好",
+        "type": "epub",
+        "path": "/data/files/insight/公正-该如何做是好.epub",
+        "cover": "/data/files/insight/cover/27.jpeg",
+        "douban_score": "9.0",
+        "douban_link" : "https://book.douban.com/subject/5408882/",
+        "description" : "",
+        "author": ""
+    },
+    {
+        "id": "28",
+        "name": "游戏改变世界",
+        "type": "epub",
+        "path": "/data/files/insight/游戏改变世界-麦戈尼格尔.epub",
+        "cover": "/data/files/insight/cover/28.jpeg",
+        "douban_score": "7.9",
+        "douban_link" : "https://book.douban.com/subject/10828002/",
+        "description" : "",
+        "author": ""
+    },
+    {
+        "id": "29",
+        "name": "哲学家们都干了些什么",
+        "type": "epub",
+        "path": "/data/files/insight/哲学家们都干了些什么.epub",
+        "cover": "/data/files/insight/cover/29.jpeg",
+        "douban_score": "8.5",
+        "douban_link" : "https://book.douban.com/subject/6425061/",
+        "description" : "",
+        "author": ""
     }
 ]

@@ -46,5 +46,14 @@
         "path": "/data/files/math/醉汉的脚步-随机性如何主宰我们的生活-2010.epub",
         "cover": "/data/files/math/cover/11005.jpg",
         "author": ""
+    },
+    {
+        "id": "11006",
+        "name": "天才引导的历程：数学中的伟大定理",
+        "type": "epub",
+        "path": "/data/files/math/天才引导的历程-数学中的伟大定理.epub",
+        "cover": "/data/files/math/cover/11006.jpg",
+        "douban_score": "9.1",
+        "author": ""
     }
 ]

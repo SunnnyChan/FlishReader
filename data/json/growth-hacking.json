@@ -4,6 +4,9 @@
         "type": "link",
         "path": "https://sunnnychan.github.io/hacking-growth-by-sean-ellis/",
         "cover": "http://pic.yupoo.com/sunnnychan/1f27b8d3/4dab12c7.jpg",
+        "douban_score": "8.3",
+        "douban_link" : "https://book.douban.com/subject/27593848/",
+        "description" : "",
         "author": ""
     },
     {
@@ -12,6 +15,9 @@
         "type": "epub",
         "path": "/data/files/growth-hacking/硅谷增长黑客实战笔记.epub",
         "cover": "/data/files/growth-hacking/cover/2000-GH-practice.jpeg",
+        "douban_score": "8.9",
+        "douban_link" : "https://book.douban.com/subject/30186119/",
+        "description" : "",
         "author": "曲卉"
     },
     {
@@ -20,6 +26,9 @@
         "type": "epub",
         "path": "/data/files/growth-hacking/增长黑客-创业公司的用户与收入增长秘籍.epub",
         "cover": "/data/files/growth-hacking/cover/2001-GrowthHacking.jpeg",
+        "douban_score": "7.6",
+        "douban_link" : "https://book.douban.com/subject/26541801/",
+        "description" : "",
         "author": ""
     },    
     {
@@ -28,6 +37,9 @@
         "type": "epub",
         "path": "/data/files/growth-hacking/超级转化率.epub",
         "cover": "/data/files/growth-hacking/cover/2002.jpeg",
+        "douban_score": "7.6",
+        "douban_link" : "https://book.douban.com/subject/34870061/",
+        "description" : "",
         "author": ""
     },
     {
@@ -36,6 +48,9 @@
         "type": "epub",
         "path": "/data/files/growth-hacking/用户增长方法论.epub",
         "cover": "/data/files/growth-hacking/cover/2003.jpeg",
+        "douban_score": "7.6",
+        "douban_link" : "https://book.douban.com/subject/34870093/",
+        "description" : "",
         "author": ""
     },    
     {
@@ -44,6 +59,9 @@
         "name": "用户画像：方法论与工程化解决方案",
         "path": "/data/files/growth-hacking/用户画像.epub",
         "cover": "/data/files/growth-hacking/cover/2004.jpeg",
+        "douban_score": "7.8",
+        "douban_link" : "https://book.douban.com/subject/34961590/",
+        "description" : "",
         "author": "赵宏田"
     },    
     {
@@ -60,6 +78,9 @@
         "type": "epub",
         "path": "/data/files/growth-hacking/用户思维+-好产品让用户为自己尖叫.epub",
         "cover": "/data/files/growth-hacking/cover/2006.jpeg",
+        "douban_score": "8.2",
+        "douban_link" : "https://book.douban.com/subject/27129563/",
+        "description" : "",
         "author": ""
     },    
     {
@@ -68,6 +89,9 @@
         "type": "epub",
         "path": "/data/files/growth-hacking/上瘾-让用户养成使用习惯的四大产品逻辑.epub",
         "cover": "/data/files/growth-hacking/cover/2007.jpg",
+        "douban_score": "7.4",
+        "douban_link" : "https://book.douban.com/subject/27030507/",
+        "description" : "",
         "author": ""
     },    
     {
@@ -76,6 +100,9 @@
         "type": "epub",
         "path": "/data/files/growth-hacking/用户体验要素-以用户为中心的产品设计-第2版.epub",
         "cover": "/data/files/growth-hacking/cover/2008.jpg",
+        "douban_score": "8.3",
+        "douban_link" : "https://book.douban.com/subject/6523997/",
+        "description" : "",
         "author": ""
     },    
     {
@@ -84,6 +111,9 @@
         "type": "epub",
         "path": "/data/files/growth-hacking/增长思维.epub",
         "cover": "/data/files/growth-hacking/cover/2009.jpg",
+        "douban_score": "7.3",
+        "douban_link" : "https://book.douban.com/subject/34860725/",
+        "description" : "",
         "author": ""
     },    
     {
@@ -92,6 +122,9 @@
         "type": "epub",
         "path": "/data/files/growth-hacking/用户力-需求驱动的产品_运营和商业模式.epub",
         "cover": "/data/files/growth-hacking/cover/2010.jpg",
+        "douban_score": "7.2",
+        "douban_link" : "https://book.douban.com/subject/26685458/",
+        "description" : "",
         "author": ""
     },    
     {
@@ -100,6 +133,9 @@
         "type": "epub",
         "path": "/data/files/growth-hacking/小群效应-席卷海量用户的隐性力量.epub",
         "cover": "/data/files/growth-hacking/cover/2011.jpg",
+        "douban_score": "7.7",
+        "douban_link" : "https://book.douban.com/subject/27168595/",
+        "description" : "",
         "author": ""
     },
     {
