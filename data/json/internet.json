@@ -46,5 +46,21 @@
         "path": "/data/files/internet/软技能-代码之外的生存指南.epub",
         "cover": "/data/files/internet/cover/10005.jpeg",
         "author": ""
+    },
+    {
+        "id": "10006",
+        "name": "产品游戏化",
+        "type": "epub",
+        "path": "/data/files/internet/产品游戏化.epub",
+        "cover": "/data/files/internet/cover/10006.jpeg",
+        "author": ""
+    },
+    {
+        "id": "10007",
+        "name": "游戏化思维：改变未来商业的新力量",
+        "type": "epub",
+        "path": "/data/files/internet/游戏化思维-改变未来商业的新力量.epub",
+        "cover": "/data/files/internet/cover/10007.jpeg",
+        "author": ""
     }
 ]
