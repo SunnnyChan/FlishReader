@@ -145,5 +145,13 @@
         "path": "/data/files/growth-hacking/Trustworthy-Online-Controlled-Experiments.epub",
         "cover": "/data/files/growth-hacking/cover/2017.jpg",
         "author": ""
+    },
+    {
+        "id": "2018",
+        "name": "我在一线做用户增长",
+        "type": "epub",
+        "path": "/data/files/growth-hacking/我在一线做用户增长-存量时代的用户运营之道.epub",
+        "cover": "/data/files/growth-hacking/cover/2018.jpg",
+        "author": ""
     }
 ]
